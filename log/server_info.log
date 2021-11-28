@@ -1,0 +1,11 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 21:56:03.430	[34minfo[0m	C:/Users/Administrator/Downloads/Compressed/gin-vue/server/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 21:56:03.431	[34minfo[0m	C:/Users/Administrator/Downloads/Compressed/gin-vue/server/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 21:56:03.432	[34minfo[0m	C:/Users/Administrator/Downloads/Compressed/gin-vue/server/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 21:56:03.449	[34minfo[0m	C:/Users/Administrator/Downloads/Compressed/gin-vue/server/initialize/router.go:81	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 21:56:03.459	[34minfo[0m	C:/Users/Administrator/Downloads/Compressed/gin-vue/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 22:13:32.975	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 22:13:32.975	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 22:13:32.976	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 22:13:33.012	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:81	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 22:13:33.025	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 22:38:54.002	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/api/v1/system/sys_initdb.go:53	前往初始化数据库
