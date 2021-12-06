@@ -8,7 +8,7 @@ aliyun-oss:
 autocode:
   transfer-restart: true
   root: D:\goPro\src\github.com\n1n1n1_owner
-  server: /server
+  server: /crmServer
   server-api: /api/v1/autocode
   server-initialize: /initialize
   server-model: /model/autocode
