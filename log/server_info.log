@@ -9,3 +9,93 @@
 [github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 22:13:33.012	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:81	router register success
 [github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 22:13:33.025	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
 [github.com/flipped-aurora/gin-vue-admin/server]2021/11/28 - 22:38:54.002	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/api/v1/system/sys_initdb.go:53	前往初始化数据库
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/29 - 20:24:29.929	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/29 - 20:24:29.952	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/29 - 20:24:29.952	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/29 - 20:24:29.952	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/29 - 20:24:30.003	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:81	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/11/29 - 20:24:30.004	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 22:47:27.421	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 22:47:27.427	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 22:47:27.428	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 22:47:27.428	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 22:47:27.441	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:81	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 22:47:27.461	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:43:04.173	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:43:04.176	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:43:04.176	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:43:04.176	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:43:04.191	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:81	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:43:04.194	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:59:07.703	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:59:07.705	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:59:07.705	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:59:07.706	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:59:07.709	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:81	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/06 - 23:59:07.721	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:01:54.338	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:01:54.341	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:01:54.341	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:01:54.341	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:01:54.344	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:81	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:01:54.361	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:12:04.459	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:12:04.461	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:12:04.461	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:12:04.461	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:12:04.464	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:82	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:12:04.465	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:34:54.221	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:34:54.223	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:34:54.223	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:34:54.223	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:34:54.227	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:82	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 00:34:54.227	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:06:12.197	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:60	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:06:12.199	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:06:12.200	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:06:12.200	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:06:12.208	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:83	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:06:12.215	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:10:30.530	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:61	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:10:30.532	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:10:30.532	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:10:30.533	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:10:30.537	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:84	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:10:30.545	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:20:22.977	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:61	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:20:22.979	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:20:22.979	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:20:22.980	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:20:22.983	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:84	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 01:20:22.985	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:11:58.281	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:61	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:11:58.302	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:11:58.302	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:11:58.302	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:11:58.315	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:84	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:11:58.328	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:20:24.519	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:20:24.526	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:20:24.526	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:20:24.527	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:20:24.570	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:20:24.581	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:37:49.895	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:37:49.897	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:37:49.898	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:37:49.898	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:37:49.901	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 21:37:49.909	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:08:45.445	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:63	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:08:45.448	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:08:45.448	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:08:45.448	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:08:45.452	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:86	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:08:45.453	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:16:17.719	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/gorm.go:64	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:16:17.722	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:16:17.722	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:16:17.722	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:16:17.726	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/07 - 22:16:17.742	[34minfo[0m	D:/goPro/src/github.com/n1n1n1_owner/crmServer/core/server.go:37	server run success on 	{"address": ":8888"}
