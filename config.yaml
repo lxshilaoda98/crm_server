@@ -36,10 +36,10 @@ email:
 excel:
   dir: ./resource/excel/
 jwt:
-  buffer-time: 86400
-  expires-time: 604800
-  issuer: qmPlus
   signing-key: 64ca715e-60c6-4ea5-bc00-23a567b966bf
+  expires-time: 604800
+  buffer-time: 86400
+  issuer: xin.li
 local:
   path: uploads/file
 mysql:
